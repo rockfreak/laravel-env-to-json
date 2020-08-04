@@ -1,0 +1,14 @@
+{
+    "name": "rockfreak/laravel-env-to-json",
+    "type": "library",
+    "description": "Output .env file to a json format for consumption with services like AWS ECS",
+    "keywords": ["laravel","env","aws","ecs"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oliver Camp",
+            "email": "ollie.camp@gmail.com",
+            "role": "Developer"
+        }
+    ],
+}
